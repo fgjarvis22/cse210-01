@@ -14,7 +14,7 @@ class Game:
     win = 0
     winner = 0
     turn = 1
-
+   
 # Function for displaying the game board with an enhanced display that displays x's and o's 
 # in different colors and highlights the winning row 
     def display():
