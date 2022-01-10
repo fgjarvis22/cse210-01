@@ -113,11 +113,8 @@ class Game:
         else:
             return 0, 0
 
-
-
 # Main function
-    def main():
-        
+    def main():   
         while True:
             if Game.x:
                 Game.x_or_o = "x"
